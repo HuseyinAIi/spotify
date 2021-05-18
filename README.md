@@ -4,12 +4,7 @@
       
 &nbsp; <br> [![Spotify](https://huseyinaii.vercel.app/api/spotify)](https://open.spotify.com/user/m0jh5szwhv1pyyksqmrb08hhe)
 
-  </td>
-  <td width="50%">
 
-<br>
-
-  </td>
   </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
