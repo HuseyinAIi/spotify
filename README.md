@@ -1,11 +1,1 @@
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://huseyinaii.vercel.app/api/spotify)](https://open.spotify.com/user/m0jh5szwhv1pyyksqmrb08hhe)
-
-
-  </table>
-
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+<iframe src="https://widget.spreaker.com/player?episode_id=45054678&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
